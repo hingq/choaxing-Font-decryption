@@ -24,3 +24,4 @@
 
 [tampermonkey](https://www.tampermonkey.net/)
 
+参考：https://scriptcat.org/zh-CN/script-show-page/432/code
