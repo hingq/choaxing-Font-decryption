@@ -1,7 +1,5 @@
 ## 仅供学习研究，请勿使用于非法用途
 
-参考：https://scriptcat.org/zh-CN/script-show-page/432/
-
 [md5](https://github.com/blueimp/JavaScript-MD5).js
 
 ### [Typr.js](https://github.com/photopea/Typr.js)
